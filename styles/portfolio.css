@@ -21,7 +21,6 @@
 /* header and navigation styles */
 
 .header {
-    border: 1px solid #FFFFFF;
     background: #FFF8F3;
     background-image: url('../images/header_bg.png'), url(../images/developer.png);
     background-repeat: no-repeat;
@@ -31,7 +30,7 @@
 nav {
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    margin: 0px 200px;
 }
 
 .nav-title {
